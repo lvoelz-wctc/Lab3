@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2d5bfd9-9be7-481d-8774-9e573e42e048" name="Default Changelist" comment="" />
+    <list default="true" id="f2d5bfd9-9be7-481d-8774-9e573e42e048" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jRbXJX7dJZ0jdEhlMY1Yh4FGY2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,10 +44,22 @@
       <option name="presentableId" value="Default" />
       <updated>1603769889980</updated>
       <workItem from="1603769891008" duration="1962000" />
+      <workItem from="1603772178816" duration="271000" />
+      <workItem from="1603942837239" duration="2094000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="370" key="Github.ShareDialog" timestamp="1603772230691">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="632" y="370" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1603772230691" />
+    <state x="563" y="143" key="Github.UntrackedFilesDialog" timestamp="1603772241798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="143" key="Github.UntrackedFilesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1603772241798" />
   </component>
 </project>
